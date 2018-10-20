@@ -4,6 +4,9 @@ to a Host in a Gazell network.
 
 When Button A on the Device is pressed and released,
 the green led on the host will toggle.
+
+SOURCED FROM RFDUINO LIBRARY
+AVALIABLE AT http://www.rfduino.com/
 */
 
 #include <RFduinoGZLL.h>
