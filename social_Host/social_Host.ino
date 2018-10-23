@@ -2,6 +2,9 @@
 Adapted from rfduino library
  
 changed to show colour selected by device
+
+SOURCED FROM RFDUINO LIBRARY
+AVAILABLE AT http://www.rfduino.com/
 */
  
 #include <RFduinoGZLL.h>
