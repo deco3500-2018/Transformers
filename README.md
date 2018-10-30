@@ -27,3 +27,7 @@ https://github.com/deco3500-2018/Transformers/wiki/Concept-Proposal
 # Brochure
 ![](https://github.com/deco3500-2018/Transformers/blob/master/brochure-page1.jpg?raw=true)
 ![](https://github.com/deco3500-2018/Transformers/blob/master/brochure-page2.jpg?raw=true)
+
+# Code Guide
+* [Host](https://github.com/deco3500-2018/Transformers/tree/master/social_Host)
+* [Device]
