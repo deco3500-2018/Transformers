@@ -18,7 +18,7 @@ https://github.com/deco3500-2018/Transformers/wiki/Concept-Proposal
 * [Project description](https://github.com/deco3500-2018/Transformers/wiki/week-12-Project-Description)
 * [Final Prototype of the physical prototype](https://github.com/deco3500-2018/Transformers/wiki/week-13--The-Design-of-Physical-Prototype)
 * [Showcase](https://github.com/deco3500-2018/Transformers/wiki/week-13-Showcase)
-* [Future improvement](https://github.com/deco3500-2018/Transformers/wiki/Week-13-Future-Improvements)
+* [Future improvement](https://github.com/deco3500-2018/Transformers/wiki/week-13-Showcase)
 
 
 # Poster
