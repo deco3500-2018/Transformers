@@ -30,4 +30,4 @@ https://github.com/deco3500-2018/Transformers/wiki/Concept-Proposal
 
 # Code Guide
 * [Host](https://github.com/deco3500-2018/Transformers/tree/master/social_Host)
-* [Device]
+* [Device](https://github.com/deco3500-2018/Transformers/tree/master/social_device)
